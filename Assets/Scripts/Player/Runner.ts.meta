@@ -1,0 +1,71 @@
+- !<AssetImportMetadata/dbc665c8-f45d-4e54-8065-f791e7313b41>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> a9fc15c9-4bcf-434a-9998-b63f071b389f
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> a9fc15c9-4bcf-434a-9998-b63f071b389f
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 20f1e291-6a79-418d-bcd1-09f92f04409c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/20f1e291-6a79-418d-bcd1-09f92f04409c>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: d05a4556-6ce1-4189-8497-2a532fe684e9
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    animator: false
+    dieTimeout: false
+    hp: false
+    jumpBtn: false
+    leftBtn: false
+    rightBtn: false
+    rollBtn: false
+    speed: false
+    speedGrow: false
+    xLineOffset: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - animator: !<reference.AnimationPlayer> 00000000-0000-0000-0000-000000000000
+      leftBtn: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      rightBtn: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      jumpBtn: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      rollBtn: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      speed: !<float> 0.000000
+      speedGrow: 0.010000
+      xLineOffset: !<float> 1.000000
+      hp: !<float> 3.000000
+      dieTimeout: !<float> 2.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Component.AnimationPlayer animator
+    - // @input SceneObject leftBtn
+    - // @input SceneObject rightBtn
+    - // @input SceneObject jumpBtn
+    - // @input SceneObject rollBtn
+    - // @input float speed = 1
+    - // @input float speedGrow = 0.05
+    - // @input float xLineOffset = 1
+    - // @input float hp = 3
+    - // @input float dieTimeout

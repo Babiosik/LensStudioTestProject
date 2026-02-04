@@ -1,0 +1,50 @@
+- !<AssetImportMetadata/9ac27186-0d23-408f-a6fb-2a0051ada337>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 900b0ad5-1ba6-439a-bdd7-fc444c9fe8e5
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 900b0ad5-1ba6-439a-bdd7-fc444c9fe8e5
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 222b1cbb-68f3-4a93-86f2-26c06420b156
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/222b1cbb-68f3-4a93-86f2-26c06420b156>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 4b0c7a7e-5d69-49f4-a22a-ba7cfa6a9315
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    offset: false
+    smoothSpeed: false
+    target: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - target: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      offset: !<Vec3> {x: 0.000000, y: 5.000000, z: -10.000000}
+      smoothSpeed: !<float> 5.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input SceneObject target
+    - "// @input vec3 offset = {0,5,-10}"
+    - // @input float smoothSpeed = 1
