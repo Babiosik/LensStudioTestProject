@@ -5,10 +5,9 @@ It's my first open Lens Studio and I concentrate on project.
 
 I'm excited to share my project with you and I hope you enjoy it.
 
-<video width="300px" controls>
-  <source src="./Video/Gameplay.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Video](https://github.com/Babiosik/LensStudioTestProject/blob/main/Video/Gameplay.mp4)
+
+[Google Drive Video](https://drive.google.com/file/d/12Mwmp98zaQ4DtnK69iHnzwF9HvtSpbBL/view?usp=sharing)
 
 Worked time (14h):
 - Download Lens Studio, Overview editor - 15m
