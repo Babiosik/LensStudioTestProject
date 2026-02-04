@@ -1,0 +1,45 @@
+- !<AssetImportMetadata/4ee0214c-8d4e-4af4-af2d-770620786446>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> a35093f1-c12a-41a4-a716-eef6f02b0ec9
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> a35093f1-c12a-41a4-a716-eef6f02b0ec9
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 982b9de1-d2cb-4fcc-8525-d9a4fba2bdcc
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/982b9de1-d2cb-4fcc-8525-d9a4fba2bdcc>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 79789231-6807-4a62-bcfa-9bc92bc3ecd7
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    obstacles: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - obstacles: !<reference.SceneObject[]>
+        []
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - "// @input SceneObject[] obstacles"

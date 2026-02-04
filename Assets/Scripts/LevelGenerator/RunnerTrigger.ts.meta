@@ -1,0 +1,47 @@
+- !<AssetImportMetadata/34ae530b-893e-40db-a254-c013d55d6794>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 253f6780-6e47-40d1-aa0b-24408537c0be
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 253f6780-6e47-40d1-aa0b-24408537c0be
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> e11a9f09-8572-43f7-b2e0-4b58abca22ac
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/e11a9f09-8572-43f7-b2e0-4b58abca22ac>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: b6a5899d-6af4-4086-a3d9-13b19a7dec70
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    collider: false
+    triggerType: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - collider: !<reference.ColliderComponent> 00000000-0000-0000-0000-000000000000
+      triggerType: Jump
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Component.ColliderComponent collider
+    - '// @input string triggerType = "Jump"'

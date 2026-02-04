@@ -1,0 +1,53 @@
+- !<AssetImportMetadata/f7dee991-9f10-4c95-bb08-988f1daa0d95>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 7d196e58-a753-480c-b10f-e4152b552090
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 7d196e58-a753-480c-b10f-e4152b552090
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 65c9cc78-d58e-475f-b976-13f66c95a968
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/65c9cc78-d58e-475f-b976-13f66c95a968>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: fde0b695-53f2-4d5d-837e-27420af9565d
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    despawnDistance: false
+    player: false
+    poolSize: false
+    segmentPrefab: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - segmentPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+      player: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      poolSize: !<float> 10.000000
+      despawnDistance: !<float> -20.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Asset.ObjectPrefab segmentPrefab
+    - // @input SceneObject player
+    - // @input float poolSize = 10
+    - // @input float despawnDistance = -20
