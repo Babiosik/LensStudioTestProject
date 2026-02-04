@@ -1,0 +1,44 @@
+- !<AssetImportMetadata/f70b433a-8cb0-48ee-b100-3f5643f138b1>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 3db287b8-d3ff-4b2c-8e7b-df4dc67fd71d
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 3db287b8-d3ff-4b2c-8e7b-df4dc67fd71d
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> a8954911-5a4f-4d47-9601-ef5d3d8ecdae
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/a8954911-5a4f-4d47-9601-ef5d3d8ecdae>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: e7f071f2-ba8a-4d4d-a798-2d3c22485c49
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    restartButtonObject: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - restartButtonObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input SceneObject restartButtonObject
