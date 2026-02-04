@@ -1,0 +1,1184 @@
+- !<AssetImportMetadata/3444539d-2c33-916e-f1fb-2839b0d670cd>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 60f0a1d1-8571-41ad-86c0-a6f3771448b8
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 60f0a1d1-8571-41ad-86c0-a6f3771448b8
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    AssetLibraryId: 66w3jt90kruqwTInNqHUhO
+  AssetDataMap:
+    ObjectPrefab: !<own> 4b8dbff5-530c-4a17-9ec9-03768652d972
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/025a01ab-34c7-49c7-53c2-45d7dff5744b>
+  PrefabRemaps:
+    []
+  Name: Extra Whiskers Colored
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 10.000000, y: -23.268579, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 758cf715-04e3-4eec-6d55-903d536183c6
+- !<Image/0abb757c-d45f-4e62-521e-2a16a4e70549>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 8
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6dca3bb9-f0a3-4d66-b538-3cb2069eb0a4
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/14ac81e9-0c90-458c-655c-f7cb6c3b32ce>
+  PrefabRemaps:
+    []
+  Name: Nose Clown
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -10.000000, y: -0.583292, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> dbf5b712-b974-4ea0-48ae-4709f7064c26
+- !<Image/1831f882-11c0-4244-74b3-df891f8beea9>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 26
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 1e1f4d49-0d22-41db-87c9-7af463a6cc19
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/1ac9156e-a102-454f-674a-d85984206415>
+  PrefabRemaps:
+    []
+  Name: Heart Sunglasses
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9e140765-0132-47be-69bf-4d10ee84c03f
+- !<SceneObject/259ebb83-6bce-4fcc-4b2e-c96d5c6e437e>
+  PrefabRemaps:
+    []
+  Name: Extra Whiskers White
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: -23.268579, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 462ddeee-f6fa-49be-6e98-c61983f681e1
+- !<Image/27ef0836-507e-4ef8-77dc-51e2de513e77>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 28
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 32074fce-a990-4c64-9117-8d9441535312
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/2d5906f6-0b14-46e2-4da4-9ea41742bd3f>
+  PrefabRemaps:
+    []
+  Name: Nose Heart
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: -6.939909, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 8eb6f0ca-7bbb-4163-56c4-9ebd89677ef5
+- !<Image/2deaa73b-a43e-4515-4fbf-aa14acef3a2a>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 21
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> ae67af57-e7c3-4edb-a5bc-ed2130160350
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/3812c403-4b6a-404d-547e-f89b7020708c>
+  PrefabRemaps:
+    []
+  Name: Nose Simple
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -10.000000, y: -6.939909, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6a18899c-94cf-4d51-4ddf-65d6177c0e13
+- !<Image/38af913a-5ca3-4769-6799-2692ff2a6fb1>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 24
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f34698ce-1908-4aef-86e8-8a57a4c20a0a
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/3c54fb64-e561-4cdc-4d9e-4965f7cec261>
+  PrefabRemaps:
+    []
+  Name: Headband Rainbow
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 5.561472, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> eccb7cb1-d7c4-4066-659d-1bde3a5134cf
+- !<SceneObject/3fb966b0-c774-4010-626a-2d6cf2269e6b>
+  PrefabRemaps:
+    []
+  Name: Round Lenses
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: -18.499386, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 73cbf579-e5e8-4333-7ba3-817041e3f0cd
+  Components:
+    - !<own> 1831f882-11c0-4244-74b3-df891f8beea9
+- !<SceneObject/42f28bbf-e837-47a4-6aa8-5dfaa86098b4>
+  PrefabRemaps:
+    []
+  Name: Star Sunglasses
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.085892, y: 1.085892, z: 1.085892}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 55a551cb-7b6d-494f-7df6-bbdbc37845aa
+- !<Image/462ddeee-f6fa-49be-6e98-c61983f681e1>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 31
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 537050ee-7c7e-4058-b86c-109578ad1e6c
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefabAssetData/4b8dbff5-530c-4a17-9ec9-03768652d972>
+  Prototype: !<ObjectOwner/402350cb-54cc-4b1a-b495-706a7da70e32>
+    PackagePath: ""
+    objects:
+      - !<own> 7b2fd42f-358e-4e86-4801-2d039973df28
+- !<SceneObject/4f5f0ec6-ef04-47cb-4711-1d11105cbab2>
+  PrefabRemaps:
+    []
+  Name: Headband Kitty
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 10.330666, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> b5330b35-1e72-4f71-66cc-e9cf5f3d893e
+- !<SceneObject/5223fa72-04d5-4e14-62b4-460a5f2633cf>
+  PrefabRemaps:
+    []
+  Name: Ear Bear
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -10.000000, y: 15.975399, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> cac65a34-fcbf-4106-5adc-6d90b81db043
+- !<Image/525b1937-c888-43cf-64ad-6bbe94d8389a>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 27
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> cecbfc4e-1411-408d-8c80-292175cdf9a3
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/55a551cb-7b6d-494f-7df6-bbdbc37845aa>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 19
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 44a3da0c-71ed-4d17-ab9f-00fbf990323a
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/5709ef0c-e80d-46c2-4ffb-bd4b312d44f0>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 17
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c7712d9d-697f-466a-b1a0-3e63442fbdc4
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/5ad35fcf-50ff-4aec-6324-b16e499f1e29>
+  PrefabRemaps:
+    []
+  Name: Headband Polka
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 10.000000, y: 10.330666, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 0abb757c-d45f-4e62-521e-2a16a4e70549
+- !<SceneObject/5afcea43-9041-407e-4e82-5d7a2d8d726b>
+  PrefabRemaps:
+    []
+  Name: Crown Clown
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 10.000000, y: 5.561472, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c1a3501c-8ba1-44a1-7804-2584dc738e98
+- !<Image/5db6c4b3-c0f8-4faa-5001-023dd9957755>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 1
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a91665af-64a6-4481-a586-59743a75ea1e
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/5f5b4762-6009-4761-5461-6e05e49f5831>
+  PrefabRemaps:
+    []
+  Name: Ear Wolf
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 21.890142, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5db6c4b3-c0f8-4faa-5001-023dd9957755
+- !<Image/6378708a-28b7-4c3f-4eff-573de64f7736>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 30
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 39363544-a958-4012-bafa-52bd21032da0
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/64dae1f6-bde0-4abc-64fd-a5a7c3cb49c7>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 2
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 46aa1b7c-d5d7-4ced-a69b-0ac09915f17c
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/6a18899c-94cf-4d51-4ddf-65d6177c0e13>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 15
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 9bfcdb40-61c0-49b1-919d-5f9233c8705d
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/6b9a0737-2c98-4eda-401b-a7bd4e9c3492>
+  PrefabRemaps:
+    []
+  Name: Crown
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -10.000000, y: 10.330666, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 790fd31d-077c-48cc-5c26-2dfc73822bbe
+- !<SceneObject/7262f88d-65d4-470c-52c6-9ee47594219a>
+  PrefabRemaps:
+    []
+  Name: Pink Lenses
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -10.000000, y: -18.499386, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> fdc7a766-0a95-489e-40ae-6b1cc7611dce
+  Components:
+    - !<own> 38af913a-5ca3-4769-6799-2692ff2a6fb1
+- !<SceneObject/73cbf579-e5e8-4333-7ba3-817041e3f0cd>
+  PrefabRemaps:
+    []
+  Name: Round Glasses
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.135436, y: 1.135436, z: 1.135436}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 525b1937-c888-43cf-64ad-6bbe94d8389a
+- !<Image/758cf715-04e3-4eec-6d55-903d536183c6>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 32
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 28af564f-4a43-4c9f-a15b-77861800cc12
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/790fd31d-077c-48cc-5c26-2dfc73822bbe>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 6
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 70fbaad1-c382-4799-9d0a-323232b94122
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/7b2fd42f-358e-4e86-4801-2d039973df28>
+  PrefabRemaps:
+    []
+  Name: FaceAttachments__PLACE_IN_SCENE
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b8355b97-51c0-4e17-4c67-912fd92187c8
+    - !<own> 5f5b4762-6009-4761-5461-6e05e49f5831
+    - !<own> 819243a3-8c9b-4833-781b-3ae7ce80bafa
+    - !<own> 5223fa72-04d5-4e14-62b4-460a5f2633cf
+    - !<own> ee809506-9e0c-4e0d-74a3-ca0734e1c6bc
+    - !<own> bc725c5a-5e54-4447-78a0-e2eff45406e9
+    - !<own> 6b9a0737-2c98-4eda-401b-a7bd4e9c3492
+    - !<own> 4f5f0ec6-ef04-47cb-4711-1d11105cbab2
+    - !<own> 5ad35fcf-50ff-4aec-6324-b16e499f1e29
+    - !<own> c105e018-d4a2-48b0-72b9-d3ebbfced01c
+    - !<own> 3c54fb64-e561-4cdc-4d9e-4965f7cec261
+    - !<own> 5afcea43-9041-407e-4e82-5d7a2d8d726b
+    - !<own> 14ac81e9-0c90-458c-655c-f7cb6c3b32ce
+    - !<own> b4e03c2e-7f26-495e-4964-511c7c25df5a
+    - !<own> dd17956a-28fc-48e7-59e6-a4a7c1ced074
+    - !<own> 3812c403-4b6a-404d-547e-f89b7020708c
+    - !<own> 2d5906f6-0b14-46e2-4da4-9ea41742bd3f
+    - !<own> ff490bed-be20-45f8-4588-1f5c133aab44
+    - !<own> e8f29fb5-b361-490f-4c74-d3c69b2ccc78
+    - !<own> cbb5c614-45b8-49ba-4bf1-f8953c531f95
+    - !<own> abd012c5-0f24-4ba1-5f46-9578e50f9420
+    - !<own> 7262f88d-65d4-470c-52c6-9ee47594219a
+    - !<own> 3fb966b0-c774-4010-626a-2d6cf2269e6b
+    - !<own> d039bea9-6369-4ce7-511c-004d5153c33f
+    - !<own> 7c86ba5d-f6da-4f6a-504b-0be46e2d287c
+    - !<own> 259ebb83-6bce-4fcc-4b2e-c96d5c6e437e
+    - !<own> 025a01ab-34c7-49c7-53c2-45d7dff5744b
+  Components:
+    []
+- !<SceneObject/7c86ba5d-f6da-4f6a-504b-0be46e2d287c>
+  PrefabRemaps:
+    []
+  Name: Extra Antlers
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -10.000000, y: -23.268579, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6378708a-28b7-4c3f-4eff-573de64f7736
+- !<SceneObject/819243a3-8c9b-4833-781b-3ae7ce80bafa>
+  PrefabRemaps:
+    []
+  Name: Ear Purple Long
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 10.000000, y: 21.890142, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 64dae1f6-bde0-4abc-64fd-a5a7c3cb49c7
+- !<Image/8344c603-da3b-477a-4bd7-f30e62eb458d>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 25
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e8bf796c-6cfa-4674-959d-b9f5b9e761ba
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/834713c5-d51f-4929-7f36-077f422a0d9c>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 23
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 82da0b27-7933-4166-a598-01c54666705b
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/8eb6f0ca-7bbb-4163-56c4-9ebd89677ef5>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 16
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 93bb7952-623d-4120-ab37-38c6255c9d78
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/9752e0d5-c12b-4c99-4863-6e963ef5faf8>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 14
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> fcf2aa23-e99e-4b5b-996c-c6717148da23
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/9e140765-0132-47be-69bf-4d10ee84c03f>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 29
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 08bcfdeb-bcea-4104-bf83-3d18357d9986
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/a0d15720-46d6-46c3-4161-38e98431f6f7>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a4147560-f783-49de-bdab-4387e454d287
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/a8071381-eb2f-40fa-71f9-13ef9f286e99>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 22
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b253d7bc-b9fb-4af8-885f-308dfcb9f5e8
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/abd012c5-0f24-4ba1-5f46-9578e50f9420>
+  PrefabRemaps:
+    []
+  Name: Kity Lenses
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 10.000000, y: -12.854652, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> d7921a1c-70b5-4c82-7be2-c51deb9f2f70
+  Components:
+    - !<own> a8071381-eb2f-40fa-71f9-13ef9f286e99
+- !<Image/abf7629d-7a25-4e9a-6ed8-677945a8431b>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 20
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 10eddead-2655-45fb-8c6a-4624721ea9d5
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/b15ea38f-dc67-4bbe-7e25-2f6806e5946f>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 9
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> ff7ea78b-c0cd-4184-b9bc-1e21dd4dd268
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/b4e03c2e-7f26-495e-4964-511c7c25df5a>
+  PrefabRemaps:
+    []
+  Name: Nose Deer
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: -0.583260, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e5335b60-7a9e-4080-5ee6-ebaf48b3bcf9
+- !<Image/b5330b35-1e72-4f71-66cc-e9cf5f3d893e>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 7
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c21204cc-94fc-48a4-b95e-476dc1bbaa20
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/b8355b97-51c0-4e17-4c67-912fd92187c8>
+  PrefabRemaps:
+    []
+  Name: Ear Kitty
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -10.000000, y: 21.890142, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a0d15720-46d6-46c3-4161-38e98431f6f7
+- !<SceneObject/bc725c5a-5e54-4447-78a0-e2eff45406e9>
+  PrefabRemaps:
+    []
+  Name: Headband Worm
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 10.000000, y: 15.975399, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> eafcc119-09fa-4d08-5767-9512269bb664
+- !<SceneObject/c105e018-d4a2-48b0-72b9-d3ebbfced01c>
+  PrefabRemaps:
+    []
+  Name: HeadBand Half
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -10.000000, y: 5.561472, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> b15ea38f-dc67-4bbe-7e25-2f6806e5946f
+- !<Image/c1a3501c-8ba1-44a1-7804-2584dc738e98>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 11
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 205e7a66-0d90-4448-b328-16c52d735c3b
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/cac65a34-fcbf-4106-5adc-6d90b81db043>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 3
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 12e58906-d4fa-4621-858b-15e29eee0376
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/cbb5c614-45b8-49ba-4bf1-f8953c531f95>
+  PrefabRemaps:
+    []
+  Name: Eagle Lenses
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: -12.854652, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> e226d46b-f39c-48b5-4e62-5f1ab370e334
+  Components:
+    - !<own> abf7629d-7a25-4e9a-6ed8-677945a8431b
+- !<SceneObject/d039bea9-6369-4ce7-511c-004d5153c33f>
+  PrefabRemaps:
+    []
+  Name: Heart Lenses
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 10.000000, y: -18.499386, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1ac9156e-a102-454f-674a-d85984206415
+  Components:
+    - !<own> 27ef0836-507e-4ef8-77dc-51e2de513e77
+- !<SceneObject/d7921a1c-70b5-4c82-7be2-c51deb9f2f70>
+  PrefabRemaps:
+    []
+  Name: Kity Sunglasses
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.279515, y: 1.279515, z: 1.279515}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 834713c5-d51f-4929-7f36-077f422a0d9c
+- !<Image/dbf5b712-b974-4ea0-48ae-4709f7064c26>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 12
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c8a226d2-f629-4b41-9a75-21ba9f53ad3f
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/dd17956a-28fc-48e7-59e6-a4a7c1ced074>
+  PrefabRemaps:
+    []
+  Name: Nose Dog
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 10.000000, y: -0.583260, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9752e0d5-c12b-4c99-4863-6e963ef5faf8
+- !<SceneObject/e226d46b-f39c-48b5-4e62-5f1ab370e334>
+  PrefabRemaps:
+    []
+  Name: Eagle Sunglasses
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.492580, y: 1.492580, z: 1.492580}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2deaa73b-a43e-4515-4fbf-aa14acef3a2a
+- !<Image/e5335b60-7a9e-4080-5ee6-ebaf48b3bcf9>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 13
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 0424bc1f-a755-445f-9ffa-cc4635c2e1fe
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/e8f29fb5-b361-490f-4c74-d3c69b2ccc78>
+  PrefabRemaps:
+    []
+  Name: Star Lenses
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -10.000000, y: -12.854652, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 42f28bbf-e837-47a4-6aa8-5dfaa86098b4
+  Components:
+    - !<own> f48c910c-c40a-4d9e-4463-941ab55cf1d3
+- !<Image/eafcc119-09fa-4d08-5767-9512269bb664>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 5
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 8c522f36-474b-4c04-adb9-f5312b79c89e
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/eccb7cb1-d7c4-4066-659d-1bde3a5134cf>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 10
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 80f2f605-53d7-4673-8da4-1dcf98415bde
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/ee809506-9e0c-4e0d-74a3-ca0734e1c6bc>
+  PrefabRemaps:
+    []
+  Name: Ear Fox
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 15.975399, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ef48ea89-7f04-4103-5104-f81bc60d7321
+- !<Image/ef48ea89-7f04-4103-5104-f81bc60d7321>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 4
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> d5e3eb90-77bc-486a-b910-0ee04cc4eeba
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/f48c910c-c40a-4d9e-4463-941ab55cf1d3>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 18
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 651d4f61-b00e-4c03-addf-ccb6da0415c2
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/fdc7a766-0a95-489e-40ae-6b1cc7611dce>
+  PrefabRemaps:
+    []
+  Name: Pink Sunglasses
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.035918, y: 1.035918, z: 1.035918}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 8344c603-da3b-477a-4bd7-f30e62eb458d
+- !<SceneObject/ff490bed-be20-45f8-4588-1f5c133aab44>
+  PrefabRemaps:
+    []
+  Name: Nose Pig
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 10.000000, y: -6.939909, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.923628, y: 4.923628, z: 4.923628}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5709ef0c-e80d-46c2-4ffb-bd4b312d44f0
